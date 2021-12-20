@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690627267549",
+    "project_id": "authentication-with-fire-58add",
+    "storage_bucket": "authentication-with-fire-58add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690627267549:android:2b7fc64307177bc28f0434",
+        "android_client_info": {
+          "package_name": "com.example.authenticationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690627267549-qh7ecv1p12mr34n4br28ik5hoqdoi589.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticationwithfirebase",
+            "certificate_hash": "3c969a93dd4fde5b8519492351f38fc05b0267dd"
+          }
+        },
+        {
+          "client_id": "690627267549-e2gjbpiogi9rsdud1crcs5036lihiji5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqRCtblS5p0SF4Pxa2vIXJUBNxlx6CSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690627267549-e2gjbpiogi9rsdud1crcs5036lihiji5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
