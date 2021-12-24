@@ -1,9 +1,9 @@
 # AuthenticationWithFirebase
-App with email id and password authentication, using Firebase.
+**App with email id and password authentication, using Firebase.**
 
-Registration Page:
+**Registration Page:**<br/>
 Displays toast if any of the fields, i.e, Email ID, Password and Confirm Password is/are empty.
 Displays toast if Password and Confirm Password don't match.
 
-Login Page:
+**Login Page:**<br/>
 Displays toast if any of the fields, i.e, Email ID and Password is/are empty.
