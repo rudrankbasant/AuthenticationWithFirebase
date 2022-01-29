@@ -8,4 +8,4 @@ Displays toast if Password and Confirm Password don't match.
 **Login Page:**<br/>
 Displays toast if any of the fields, i.e, Email ID and Password is/are empty.
 
-Also displays the respective error message if anything else goes wrong.
+Also displays the respective error message, if anything else goes wrong.
